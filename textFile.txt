@@ -1,1 +1,1 @@
-This is text File with Git.
+This is text File with Git. Example Git File
